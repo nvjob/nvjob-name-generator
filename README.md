@@ -5,6 +5,9 @@
 #NVJOB Name Generator is a class with a built-in base.
 Seven types of generated names: Female Old, Female New, Male Old, Male New, Female Fantasy, Male Fantasy, Sci-Fi.
 
+Full instructions and description - [nvjob.github.io/unity/nvjob-name-generator](https://nvjob.github.io/unity/nvjob-name-generator)<br>
+Web Demo - [nvjob.itch.io/nvjob-name-generator-pro-for-unity](https://nvjob.itch.io/nvjob-name-generator-pro-for-unity)
+
 ### Features (number of different combinations of names):
 - Female Old (First and Second name) - 265788.
 - Female New (First and Second name) - 319608.
