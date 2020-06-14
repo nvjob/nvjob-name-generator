@@ -1,6 +1,6 @@
 ﻿// Copyright (c) 2016 Unity Technologies. MIT license - license_unity.txt
 // #NVJOB Name Generator. MIT license - license_nvjob.txt
-// #NVJOB Name Generator 1.1v - https://nvjob.github.io/unity/nvjob-name-generator
+// #NVJOB Name Generator v1.1 - https://nvjob.github.io/unity/nvjob-name-generator
 // #NVJOB Nicholas Veselov - https://nvjob.github.io
 // #NVJOB Store - https://nvjob.github.io/store/
 
